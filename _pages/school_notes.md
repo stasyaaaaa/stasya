@@ -9,33 +9,61 @@ author_profile: true
 
 {% include base_path %}
 
-Education
+Algebra 2
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Course Outline
+* Topic 1: Systems of Equations
+  * Notes
+  * Problem Set
+* Topic 2: Functions
+  * Notes
+  * Problem Set
+* Topic 3: Absolute Value
+  * Notes
+  * Problem Set
+* Topic 4: Factoring
+  * Notes
+  * Problem Set
+* Topic 5: Quadratics
+  * Notes
+  * Problem Set
+* Topic 6: Exponents
+  * Notes
+  * Problem Set
+* Topic 7: Radicals
+  * Notes
+  * Problem Set
+* Topic 8: Rationals
+  * Notes
+  * Problem Set
+* Topic 9: Exponentials and Logs
 
-Work experience
+Pre-Calculus
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Course Outline
+* Topic 1: Functions, Rates and Patterns
+  * Notes
+  * Problem Set
+* Topic 2: Algebra and Geometry
+  * Notes
+  * Problem Set
+* Topic 3: Exponential and Logarithmic Functions
+  * Notes
+  * Problem Set
+* Topic 4: Trigonometry
+  * Notes
+  * Problem Set
+* Topic 5: Limits and Rate of Change of Functions
+  * Notes
+  * Problem Set
+* Topic 6: Exploring Other Coordinate Systems
+  * Notes
+  * Problem Set
   
-Skills
+AP Statistics
 ======
-* Skill 1
-* Skill 2
+* Course Outline
+* Topic 1: Exploring One-Variable Data
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
