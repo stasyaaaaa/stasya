@@ -16,7 +16,7 @@ List of all courses in this page
 * AP Statistics
 * AP Calculus 
 
-Algebra 2<a name="Algebra_2"><\a>
+Algebra 2<a name="Algebra_2">
 ======
 * Course Outline
 * Topic 1: Systems of Equations
