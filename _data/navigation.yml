@@ -1,13 +1,13 @@
 # main links links
 main:
   - title: "School Notes"
-    url: /school_notes/
+    url: school_notes
 
   - title: "Stem Competitions"
-    url: /stem_competitions/    
+    url: stem_competitions    
 
   - title: "Other"
-    url: /other/    
+    url: other    
     
   #- title: "Portfolio"
    # url: /portfolio/

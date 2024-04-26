@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "stem_competitions"
+permalink: /stem_competitions/
 author_profile: true
 ---
 
