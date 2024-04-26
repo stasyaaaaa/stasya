@@ -7,9 +7,16 @@ author_profile: true
   #- /resume
 ---
 
-{% include base_path %}
 
-Algebra 2
+
+List of all courses in this page
+======
+* [Algebra 2](#Algebra_2)
+* Pre-Calculus
+* AP Statistics
+* AP Calculus 
+
+Algebra 2<a name="Algebra_2"><\a>
 ======
 * Course Outline
 * Topic 1: Systems of Equations
@@ -64,29 +71,49 @@ AP Statistics
 ======
 * Course Outline
 * Topic 1: Exploring One-Variable Data
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Notes
+  * Problem Set
+* Topic 2: Exploring Two-Variable Data
+  * Notes
+  * Problem Set
+* Topic 3: Collecting Data
+  * Notes
+  * Problem Set
+* Topic 4: Probability, Random Variables, and Probability Distributions
+  * Notes
+  * Problem Set
+* Topic 5: Sampling Distributions
+  * Notes
+  * Problem Set
+* Topic 6: Inference for Categorial Data: Proportions
+  * Notes
+  * Problem Set
+* Topic 7: Inference for Quantitative Data: Means
+  * Notes
+  * Problem Set
+* Topic 8: Inference for Quantitative Data: Chi-Square
+  * Notes
+  * Problem Set
+* Topic 9: Inference for Quantitative Data: Slopes
+  * Notes
+  * Problem Set
 
-Publications
+AP Calculus
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
+Discrete Mathematics
+======
+Coming in December 2024. 
   
-Talks
+Multivariable Calculus
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+Coming in December 2024. 
   
-Teaching
+Differential Equations
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Coming in December 2024
+
+Linear Algebra
 ======
-* Currently signed in to 43 different slack teams
+Coming in December 2024
