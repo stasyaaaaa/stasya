@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: 
 title: "Stasya's Page!"
 author_profile: true
 redirect_from: 
