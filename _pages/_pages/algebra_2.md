@@ -5,10 +5,9 @@ type: "school_notes"
 permalink: /school_notes/algebra-2
 ---
 
-======
-* Course Outline
+* Course Outline - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2_Overview.pdf">pdf</a>
 * Topic 1: Systems of Equations
-  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2_Overview.pdf">pdf</a>
+  * Notes - 
   * Problem Set
 * Topic 2: Functions
   * Notes
@@ -32,3 +31,5 @@ permalink: /school_notes/algebra-2
   * Notes
   * Problem Set
 * Topic 9: Exponentials and Logs
+  * Notes
+  * Problem Set
