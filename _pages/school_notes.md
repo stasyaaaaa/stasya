@@ -20,7 +20,7 @@ Algebra 2<a name="Algebra_2">
 ======
 * Course Outline
 * Topic 1: Systems of Equations
-  * Notes - <a href = \Algebra_2_Course_Schedule.pdf\>pdf</a>
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2_Course_Schedule.pdf">pdf</a>
   * Problem Set
 * Topic 2: Functions
   * Notes
