@@ -7,20 +7,20 @@ permalink: /school_notes/algebra-2
 
 * Course Outline - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2_Overview.pdf">pdf</a>
 * Topic 1: Systems of Equations
-  * Notes - 
-  * Problem Set
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Topic 1 Notes.pdf">pdf</a>
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Problem Set 1.pdf">pdf</a>
 * Topic 2: Functions
-  * Notes
-  * Problem Set
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_2_Notes.pdf">pdf</a>
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Functions Problem Set.pdf.pdf">pdf</a>
 * Topic 3: Absolute Value
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Absolute Value Problem Set.pdf">pdf</a>
 * Topic 4: Factoring
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Factoring Problem Set.pdf">pdf</a>
 * Topic 5: Quadratics
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Quadratics Problem Set.pdf">pdf</a>
 * Topic 6: Exponents
   * Notes
   * Problem Set
