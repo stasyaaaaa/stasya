@@ -1,6 +1,8 @@
 ---
 title: "Algebra 2"
-permalink: "https://stasyaaaaa.github.io/stasya/school_notes/algebra-2"
+collection: school_notes
+type: "school_notes"
+permalink: /school_notes/algebra-2
 ---
 
 ======
