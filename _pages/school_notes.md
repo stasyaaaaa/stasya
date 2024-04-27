@@ -12,7 +12,7 @@ author_profile: true
 List of all courses
 ======
 * Math
-  * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/algebra_2">Algebra 2</a>
+  * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/algebra-2">Algebra 2</a>
   * Pre-Calculus
   * AP Statistics
   * AP Calculus
