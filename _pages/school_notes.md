@@ -9,41 +9,31 @@ author_profile: true
 
 
 
-List of all courses in this page
+List of all courses
 ======
-* [Algebra 2](#Algebra_2)
-* Pre-Calculus
-* AP Statistics
-* AP Calculus 
+* Math
+  * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/algebra_2">Algebra 2</a>
+  * Pre-Calculus
+  * AP Statistics
+  * AP Calculus
+  * Discrete Mathematics
+  * Multivariable Calculus
+  * Differential Equations
+  * Linear Algebra
+* Sciences
+  * Honors Chemistry
+  * AP Chemistry
+  * Physics 1
+  * Physics 2
+  * AP Physics C: Mechanics
+  * AP Physics C: Electricity and Magnetism
+* Other
+  * AP Human Geography
+  * AP World History
+  * AP European History
 
-Algebra 2<a name="Algebra_2">
-======
-* Course Outline
-* Topic 1: Systems of Equations
-  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2_Course_Schedule.pdf">pdf</a>
-  * Problem Set
-* Topic 2: Functions
-  * Notes
-  * Problem Set
-* Topic 3: Absolute Value
-  * Notes
-  * Problem Set
-* Topic 4: Factoring
-  * Notes
-  * Problem Set
-* Topic 5: Quadratics
-  * Notes
-  * Problem Set
-* Topic 6: Exponents
-  * Notes
-  * Problem Set
-* Topic 7: Radicals
-  * Notes
-  * Problem Set
-* Topic 8: Rationals
-  * Notes
-  * Problem Set
-* Topic 9: Exponentials and Logs
+
+
 
 Pre-Calculus
 ======
@@ -100,7 +90,36 @@ AP Statistics
 
 AP Calculus
 ======
-
+* Topic 1: Limits and Continuity
+  * Notes
+  * Problem Set
+* Topic 2: Differentiation: Definition and Fundamental Properties
+  * Notes
+  * Problem Set
+* Topic 3: Differentiation: Composite, Implicit, and Inverse Functions
+  * Notes
+  * Problem Set
+* Topic 4: Contexual Applications of Differentiation
+  * Notes
+  * Problem Set
+* Topic 5: Analytical Applications of Differentiation
+  * Notes
+  * Problem Set
+* Topic 6: Integration and Accumulation of Change
+  * Notes
+  * Problem Set
+* Topic 7: Differential Equations
+  * Notes
+  * Problem Set
+* Topic 8: Applications of Integration
+  * Notes
+  * Problem Set
+* Topic 9: Parametric Equations, Polar Coordinates, and Vector-Valued Functions
+  * Notes
+  * Problem Set
+* Topic 10: Infinite Sequences and Series
+  * Notes
+  * Problem Set
 
 Discrete Mathematics
 ======
@@ -112,8 +131,8 @@ Coming in December 2024.
   
 Differential Equations
 ======
-Coming in December 2024
+Coming in May 2025.
 
 Linear Algebra
 ======
-Coming in December 2024
+Coming in May 2025.
