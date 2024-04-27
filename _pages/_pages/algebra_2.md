@@ -23,13 +23,13 @@ permalink: /school_notes/algebra-2
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Quadratics Problem Set.pdf">pdf</a>
 * Topic 6: Exponents
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_6_Problem_Set.pdf">pdf</a>
 * Topic 7: Radicals
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_7_Problem_Set.pdf">pdf</a>
 * Topic 8: Rationals
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_8_Problem_Set.pdf">pdf</a>
 * Topic 9: Exponentials and Logs
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_9_Problem_Set.pdf">pdf</a>
