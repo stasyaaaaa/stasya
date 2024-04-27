@@ -6,9 +6,6 @@ author_profile: true
 #redirect_from:
   #- /resume
 ---
-
-
-
 List of all courses
 ======
 * Math
