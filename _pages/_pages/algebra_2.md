@@ -16,10 +16,10 @@ permalink: /school_notes/algebra-2
   * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_3_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Absolute Value Problem Set.pdf">pdf</a>
 * Topic 4: Factoring
-  * Notes
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_4_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Factoring Problem Set.pdf">pdf</a>
 * Topic 5: Quadratics
-  * Notes
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_5_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Quadratics Problem Set.pdf">pdf</a>
 * Topic 6: Exponents
   * Notes
