@@ -13,7 +13,7 @@ permalink: /school_notes/algebra-2
   * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_2_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Functions Problem Set.pdf.pdf">pdf</a>
 * Topic 3: Absolute Value
-  * Notes
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_3_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Absolute Value Problem Set.pdf">pdf</a>
 * Topic 4: Factoring
   * Notes
