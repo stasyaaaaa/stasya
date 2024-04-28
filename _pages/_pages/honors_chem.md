@@ -9,7 +9,7 @@ permalink: /school_notes/honors-chemistry
 * Topic 1: Nature of Science
   * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_1_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_1_Problem_Set.pdf">pdf</a>
-  * Labs
+  * Labs - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_1_Lab_1.pdf">Lab 1</a> <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_1_Lab_2.pdf">Lab 2</a> <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_1_Lab_3.pdf">Lab 3</a>
 * Topic 2: Atomic Structure & Energy of Electrons
   * Notes
   * Problem Set
