@@ -28,8 +28,8 @@ permalink: /school_notes/algebra-2
   * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_7_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_7_Problem_Set.pdf">pdf</a>
 * Topic 8: Rationals
-  * Notes
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_8_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_8_Problem_Set.pdf">pdf</a>
 * Topic 9: Exponentials and Logs
-  * Notes
+  * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_9_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_9_Problem_Set.pdf">pdf</a>
