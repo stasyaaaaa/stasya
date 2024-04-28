@@ -11,7 +11,7 @@ permalink: /school_notes/algebra-2
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Problem Set 1.pdf">pdf</a>
 * Topic 2: Functions
   * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_2_Notes.pdf">pdf</a>
-  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Functions Problem Set.pdf.pdf">pdf</a>
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Functions Problem Set.pdf">pdf</a>
 * Topic 3: Absolute Value
   * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra_2___Unit_3_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Algebra 2 Absolute Value Problem Set.pdf">pdf</a>
