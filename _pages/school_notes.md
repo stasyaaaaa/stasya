@@ -25,6 +25,4 @@ List of all courses
   * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/appc-mech">AP Physics C: Mechanics</a>
   * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/appc-em">AP Physics C: Electricity and Magnetism</a>
 * Other
-  * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/ap-human">AP Human Geography</a>
-  * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/ap-world">AP World History</a>
   * <a href = "https://stasyaaaaa.github.io/stasya/school_notes/ap-euro">AP European History</a> 
