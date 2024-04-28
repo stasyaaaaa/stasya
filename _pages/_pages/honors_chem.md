@@ -5,7 +5,7 @@ type: "school_notes"
 permalink: /school_notes/honors-chemistry
 ---
 
-* Course Outline
+* Course Outline - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chemistry___Course_Outline.pdf">pdf</a>
 * Topic 1: Nature of Science
   * Notes
   * Problem Set
