@@ -16,7 +16,7 @@ permalink: /school_notes/honors-chemistry
   * Labs
 * Topic 3: Periodicity
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_3_Problem_Set.pdf">pdf</a>
 * Topic 4: Bonding & Compounds
   * Notes
   * Problem Set
