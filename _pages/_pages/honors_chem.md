@@ -13,7 +13,7 @@ permalink: /school_notes/honors-chemistry
 * Topic 2: Atomic Structure & Energy of Electrons
   * Notes - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_2_Notes.pdf">pdf</a>
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_2_Problem_Set.pdf">pdf</a>
-  * Labs
+  * Labs - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_2_Lab_1.pdf">Lab 1</a> <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_2_Lab_2.pdf">Lab 2</a>
 * Topic 3: Periodicity
   * Notes
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_3_Problem_Set.pdf">pdf</a>
