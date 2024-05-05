@@ -19,27 +19,27 @@ permalink: /school_notes/honors-chemistry
   * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_3_Problem_Set.pdf">pdf</a>
 * Topic 4: Bonding & Compounds
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_4_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 5: Reactions
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_5_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 6: Stoichiometry
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_6_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 7: VSEPR/IMFs
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_7_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 8: States of Matter
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_8_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 9: Gas Laws
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_9_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 10: Solutions
   * Notes
