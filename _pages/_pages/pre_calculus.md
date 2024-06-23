@@ -5,7 +5,7 @@ type: "school_notes"
 permalink: /school_notes/pre-calculus
 ---
 
-* Course Outline
+* Course Outline - <a href = "https://stasyaaaaa.github.io/stasya/files/PreCalc_Course_Outline.pdf">pdf</a>
 * Topic 1: Functions, Rates and Patterns
   * Notes
   * Problem Set
