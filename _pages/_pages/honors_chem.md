@@ -43,24 +43,24 @@ permalink: /school_notes/honors-chemistry
   * Labs
 * Topic 10: Solutions
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_10_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 11: Acids & Bases
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_11_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 12: Equilibrium
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_12_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 13: Thermochemistry
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_13_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 14: Nuclear Chemistry
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_14_Problem_Set.pdf">pdf</a>
   * Labs
 * Topic 15: Organic Chemistry
   * Notes
-  * Problem Set
+  * Problem Set - <a href = "https://stasyaaaaa.github.io/stasya/files/Honors_Chem___Unit_15_Problem_Set.pdf">pdf</a>
