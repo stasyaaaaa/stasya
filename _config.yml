@@ -8,24 +8,24 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Stasya's Site"
+title                    : "Stasya's School Site"
 title_separator          : "-"
 name                     : &name "Stasya"
 description              : &description "Stasya's Site"
-url                      : https://stasyaaaaa.github.io/stasya/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stasyaaaaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stasyaaaaa/stasya.github.io"
+repository               : "stasyaaaaa/stasya"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "stasya.png"
+  avatar           : "IMG_9876.jpg"
   name             : "Stasya"
   pronouns         : "she/her"  
-  bio              : "Just a random girl on the internet."
-  location         : "USA"
+  bio              : "Just a random trans girl on the internet."
+  location         : "Texas"
   employer         : # Employer
   uri              : # URL
   email            : "wateypatey@gmail.com" 
